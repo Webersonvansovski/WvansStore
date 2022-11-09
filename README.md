@@ -45,3 +45,10 @@
   
 # Inspiração para o Projeto:
   https://youtu.be/_ELCMngbM0E
+  
+  
+  
+Obs: Projeto não possui deploy por enquanto!!
+
+Caso tenha surgido o interrese em criar seu Ecommerce entre em contado pelo email: vansovskipython@gmail.com 
+
